@@ -12,7 +12,7 @@
 - [Securing Cloud Infrastructure: A Comprehensive Home Lab Guide](https://github.com/YourUsername/Securing-Cloud-Infrastructure)
 - [Enhancing Security with Identity and Access Management](https://github.com/YourUsername/Securing-Cloud-Infrastructure)
 - [Microsoft Security Essentials: A Hands-On Home Lab Project](https://github.com/YourUsername/Microsoft-Security-Essentials)
-- [Email Security](https://github.com/YourUsername/Email-Security)
+- [Email Security](https://github.com/StephenOwusuB/Email-Security)
 - [Holistic Security Assessments: Techniques and Tools for Vulnerability Management](https://github.com/YourUsername/Holistic-Security-Assessments)
 - [Sophos Ecosystem: Building a Robust Security Framework in a Home Lab](https://github.com/YourUsername/Sophos-Ecosystem)
 
