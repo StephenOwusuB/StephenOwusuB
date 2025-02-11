@@ -6,14 +6,15 @@
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
-- Monitoring Honeypot Attacks with Microsoft Sentinel: A Home Lab Project
-- Integrated Threat Hunting and SOAR with KQL Queries in Microsoft Sentinel: Home Lab
-- Securing Windows Server and Active Directory: A Comprehensive Home Lab Project
-- Securing Cloud Infrastructure: A Comprehensive Home Lab Guide
-- Microsoft Security Essentials: A Hands-On Home Lab Project
-- Email Security
-- Holistic Security Assessments: Techniques and Tools for Vulnerability Management
-- Sophos Ecosystem: Building a Robust Security Framework in a Home Lab
+- [Monitoring Honeypot Attacks with Microsoft Sentinel: A Home Lab Project](https://github.com/StephenOwusuB/Monitoring-Honeypot-Attacks-with-Microsoft-Sentinel-A-Home-Lab-Project)
+- [Integrated Threat Hunting and SOAR with KQL Queries in Microsoft Sentinel: Home Lab](https://github.com/YourUsername/Integrated-Threat-Hunting-and-SOAR)
+- [Securing Windows Server and Active Directory: A Comprehensive Home Lab Project](https://github.com/YourUsername/Securing-Windows-Server-and-AD)
+- [Securing Cloud Infrastructure: A Comprehensive Home Lab Guide](https://github.com/YourUsername/Securing-Cloud-Infrastructure)
+- [Microsoft Security Essentials: A Hands-On Home Lab Project](https://github.com/YourUsername/Microsoft-Security-Essentials)
+- [Email Security](https://github.com/YourUsername/Email-Security)
+- [Holistic Security Assessments: Techniques and Tools for Vulnerability Management](https://github.com/YourUsername/Holistic-Security-Assessments)
+- [Sophos Ecosystem: Building a Robust Security Framework in a Home Lab](https://github.com/YourUsername/Sophos-Ecosystem)
+
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
