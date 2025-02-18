@@ -6,7 +6,7 @@
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
-- [Monitoring Honeypot Attacks with Microsoft Sentinel: A Home Lab Project](https://github.com/StephenOwusuB/Monitoring-Honeypot-Attacks-with-Microsoft-Sentinel-A-Home-Lab-Project)
+- [Monitoring Honeypot Attacks with Microsoft Sentinel: A SIEM Home Lab Project](https://github.com/StephenOwusuB/Monitoring-Honeypot-Attacks-with-Microsoft-Sentinel-A-Home-Lab-Project)
 - [Integrated Threat Hunting and SOAR with KQL Queries in Microsoft Sentinel: Home Lab](https://github.com/YourUsername/Integrated-Threat-Hunting-and-SOAR)
 - [Securing Windows Server and Active Directory: A Comprehensive Home Lab Project](https://github.com/YourUsername/Securing-Windows-Server-and-AD)
 - [Securing Cloud Infrastructure: A Comprehensive Home Lab Guide](https://github.com/YourUsername/Securing-Cloud-Infrastructure)
