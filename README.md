@@ -23,16 +23,17 @@
   - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)]
 - <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger with Email Capability](https://github.com/StephenOwusuB/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/StephenOwusuB/Package-Delivery-Pathfinding-Algorithm)
 
-## 📜 Certifications
--[EC Councils Ethical Hacking]
--[CompTIA Security+]
--[CCNA]
--[ISC2 Certified Cybersecurity]
--[Security Blue Introduction to Vulnerability Management]
+<h3>📜 Certifications</h3>
+
+- EC Councils Ethical Hacking
+- CompTIA Security+
+- CCNA
+- ISC2 Certified Cybersecurity
+- Security Blue Introduction to Vulnerability Management
 
 <h3> 🤳 Connect with me:</h3>
 
