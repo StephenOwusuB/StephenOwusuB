@@ -27,22 +27,23 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h3> 📜 Certifications</h3>
--EC Councils Ethical Hacking
--CompTIA Security+
--CCNA
--ISC2 Certified Cybersecurity 
--Security BLue Introduction to Vulnerability Management 
+## 📜 Certifications
+-[EC Councils Ethical Hacking]
+-[CompTIA Security+]
+-[CCNA]
+-[ISC2 Certified Cybersecurity]
+-[Security Blue Introduction to Vulnerability Management]
+
 <h3> 🤳 Connect with me:</h3>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="StephenOwusuB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/StephenOwusuB
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**StephenOwusuB/StephenOwusuB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
