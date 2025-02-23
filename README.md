@@ -9,7 +9,7 @@
 - [Integrated Threat Hunting and SOAR with KQL Queries in Microsoft Sentinel: Home Lab](https://github.com/StephenOwusuB/Integrated-Threat-Hunting-and-SOAR-with-KQL-Queries-in-Microsoft-Sentinel-Home-Lab)
 - [Monitoring Honeypot Attacks with Microsoft Sentinel: A SIEM Home Lab Project](https://github.com/StephenOwusuB/Monitoring-Honeypot-Attacks-with-Microsoft-Sentinel-A-Home-Lab-Project)
 - [Securing Windows Server and Active Directory: A Comprehensive Home Lab Project](https://github.com/YourUsername/Securing-Windows-Server-and-AD)
-- [Implementing Microsoft Defender for Enterprise Security](https://github.com/YourUsername/Securing-Cloud-Infrastructure)
+- [Implementing Microsoft Defender for Enterprise Security](https://github.com/StephenOwusuB/Implementing-Microsoft-Defender-for-Enterprise-Security)
 - [Enhancing Security with Identity and Access Management](https://github.com/YourUsername/Securing-Cloud-Infrastructure)
 - [Microsoft Security Essentials: A Hands-On Home Lab Project](https://github.com/YourUsername/Microsoft-Security-Essentials)
 - [Email Security](https://github.com/StephenOwusuB/Email-Security)
