@@ -17,15 +17,6 @@
 - [Sophos Ecosystem: Building a Robust Security Framework in a Home Lab](https://github.com/YourUsername/Sophos-Ecosystem)
 
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
-  - [Active Directory Bulk User Creation]
-  - [FIM (File Integrity Monitor)]
-- <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/StephenOwusuB/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/StephenOwusuB/Package-Delivery-Pathfinding-Algorithm)
 
 <h3>📜 Certifications</h3>
 
