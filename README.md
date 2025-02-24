@@ -26,6 +26,22 @@
 - ISC2 Certified Cybersecurity
 - Security Blue Introduction to Vulnerability Management
 
+## Technical Skills
+
+- Programming Languages: Python, JavaScript, Bash
+- Tools: Wireshark, Metasploit, Nmap, Burp Suite
+- Technologies: Firewalls, IDS/IPS, SIEM, VPN
+
+## Experience
+
+  - Conducted vulnerability assessments and penetration tests to identify security weaknesses.
+  - Implemented security measures to protect sensitive data and prevent unauthorized access.
+  - Responded to security incidents and performed forensic analysis to determine the root cause.
+  - Provided security recommendations and best practices to clients.
+  - Conducted security audits and risk assessments to identify potential threats.
+  - Developed and delivered security awareness training programs.
+
+
 <h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="StephenOwusuB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
