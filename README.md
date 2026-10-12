@@ -20,6 +20,7 @@
 
 <h3>📜 Certifications</h3>
 
+- Certified Information Systems Security Professional (CISSP) — ISC2
 - EC Councils Ethical Hacking
 - CompTIA Security+
 - CCNA
