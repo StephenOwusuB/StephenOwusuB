@@ -20,11 +20,13 @@
 
 <h3>📜 Certifications</h3>
 
+-<h3>📜 Certifications</h3>
+
 - Certified Information Systems Security Professional (CISSP) — ISC2
-- EC Councils Ethical Hacking
+- Certified Ethical Hacker (CEH) — EC-Council
+- Cisco Certified Network Associate (CCNA)
 - CompTIA Security+
-- CCNA
-- ISC2 Certified Cybersecurity
+- Certified in Cybersecurity (CC) — ISC2
 - Security Blue Introduction to Vulnerability Management
 
 ## Technical Skills
